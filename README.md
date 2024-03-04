@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devononymous&show_icons=true&locale=en" alt="devononymous" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devononymous&" alt="devononymous" /></p><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devononymous&" alt="devononymous" /></p><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devononymous&show_icons=true&locale=en&layout=compact" alt="devononymous" /></p>
 
