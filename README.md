@@ -34,9 +34,9 @@
 <p><a href="https://www.buymeacoffee.com/devononymous.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devononymous.dev" /></a><a href="https://ko-fi.com/devononymous"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devononymous" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devononymous&show_icons=true&locale=en&layout=compact" alt="devononymous" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devononymous&show_icons=true&locale=en" alt="devononymous" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devononymous&" alt="devononymous" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devononymous&show_icons=true&locale=en&layout=compact" alt="devononymous" /></p>
