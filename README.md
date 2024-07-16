@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Next Js and GraphyQL projects**
 
-- 🌱 I’m currently learning **Next JS, Node and Express**
-
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for contribution  for mega project**
+- 🤝 I’m looking for a contribution  into my mega project**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sushil-kumar-mahato/](https://www.linkedin.com/in/sushil-kumar-mahato/)
 
