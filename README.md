@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil kumar Mahato</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devononymous&label=Profile%20views&color=0e75b6&style=flat" alt="devononymous" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **Learning backend**
+- 🤝 I’m looking for contribution  for mega project**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sushil-kumar-mahato/](https://www.linkedin.com/in/sushil-kumar-mahato/)
 
